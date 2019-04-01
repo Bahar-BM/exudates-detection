@@ -1,0 +1,4 @@
+# exudates-detection
+<p>Diabetic retinopathy, caused by changes in the blood vessels of the retina, is a common complication of diabetes. This disease results in blurred or distorted vision and is one of the main causes of blindness in the world. Exudate is one of the early symptoms of diabetic retinopathy. Ophthalmologists require dilation of pupil's eye to detect exudates. Dilation of pupil, which is performed using a chemical solution, is a painful act and consumes lot of time. In this project, based on morphological operations [1], we have detected exudates from fundus images in the STARE bank automatically. </p>
+<p>[1] Akara Sopharak, Bunyarit Uyyanonvara, Sarah Barmanb, Thomas H. Williamson.
+Automatic detection of diabetic retinopathy exudates from non-dilated retinal images using mathematical morphology methods</p>
