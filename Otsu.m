@@ -1,4 +1,5 @@
-function [T] = Otsu(I,N) nbins = N;
+function [T] = Otsu(I,N) 
+    nbins = N;
     [x,h] = imhist(I,nbins); 
     p = x./sum(x);
     om1 = 0;
